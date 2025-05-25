@@ -1,0 +1,12 @@
+{
+    "pages": [
+        {
+            "title": "home",
+            "filename": "home.html"
+        },
+        {
+            "title": "data",
+            "filename": "data.json"
+        }
+    ]
+}
